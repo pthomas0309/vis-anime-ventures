@@ -14,7 +14,7 @@ const charactersRouter = require('./routes/characters.router');
 const port = process.env.PORT || 5000;
 
 /** ---------- MIDDLEWARE ---------- **/
-pp.use(bodyParser.json());
+app.use(bodyParser.json());
 app.use(express.static('build'));
 
 /** ---------- ROUTES ---------- **/

@@ -1,0 +1,27 @@
+.mapBox1 {
+    height: 25px;
+    width: 25px;
+    background-color: #8db600;
+    float: left;
+    margin-right: 15px;
+}
+.mapBox2 {
+    height: 25px;
+    width: 25px;
+    background-color: #ff9966;
+    float: left;
+    margin-right: 15px;
+}
+.mapBox3 {
+    height: 25px;
+    width: 25px;
+    background-color: #f4c2c2;
+    float: left;
+    margin-right: 15px;
+    
+}
+
+.mapKey {
+    font-size: 20px;
+    text-align: left;
+}
